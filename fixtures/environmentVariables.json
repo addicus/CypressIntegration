@@ -1,0 +1,37 @@
+{
+     
+
+            "local":
+            {           
+                "gridUserName": "",
+                "gridPassword":"",
+                "baseURL":"http://localhost/",
+                "queryString":"?_website=the-summit"
+             },
+        
+            "dev":
+            {
+                "gridUserName": "",
+                "gridPassword":"",
+                "baseURL":"https:///",
+                "queryString":""
+            },
+            
+            "stag":
+            {
+                "gridUserName": "",
+                "gridPassword":"",
+                "baseURL":"https://",
+                "queryString":""
+            },
+        
+            "prod":
+            {
+                "gridUserName": "",
+                "gridPassword":"",
+                "baseURL":"https://www.grid.news/",
+                "queryString":""
+            }
+ 
+    
+ }
